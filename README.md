@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Liz Kim
 
 📫 How to reach me:
 email: itslizkim@gmail.com
