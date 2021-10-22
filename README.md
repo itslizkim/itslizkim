@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Liz Kim
 
+ ## 😄 Pronouns: she/her
+
+Full Stack developer with an extensive background in retail sales and a love for learning. Skilled at building teams, problem solving, and developing people. Driven to know more and utilize new skills to build and create efficient technology solutions and make life simpler. 
+
  ## 📫 How to reach me:
 email: itslizkim@gmail.com
 
